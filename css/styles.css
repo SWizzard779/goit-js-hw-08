@@ -1,0 +1,17 @@
+.gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.gallery-item {
+    width: calc((100% - 32px) /3);
+}
+
+.gallery-image {
+    width: 360px;
+    object-fit: contain;
+}
