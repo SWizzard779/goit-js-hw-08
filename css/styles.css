@@ -5,10 +5,12 @@
     gap: 16px;
     flex-wrap: wrap;
     list-style: none;
+    width: 1130px;
 }
 
 .gallery-item {
     width: calc((100% - 32px) /3);
+    margin: 0 auto;
 }
 
 .gallery-image {
