@@ -5,7 +5,7 @@
     gap: 16px;
     flex-wrap: wrap;
     list-style: none;
-    width: 1130px;
+    width: 50%;
 }
 
 .gallery-item {
